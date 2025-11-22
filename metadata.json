@@ -1,0 +1,5 @@
+{
+  "name": "The Insider",
+  "description": "A social deduction game where players must identify the Insider who knows the general category while everyone else knows the specific word.",
+  "requestFramePermissions": []
+}
